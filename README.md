@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Windbnb</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://windbnb-luisquiiroz.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/LuisQuiiroz/windbnb">
       Solution
     </a>
     <span> | </span>
@@ -31,28 +31,40 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![image](https://github.com/LuisQuiiroz/windbnb/assets/93633867/1640ab38-c95a-4f1c-912a-53ece5f10170)
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+
+  [Here](https://windbnb-luisquiiroz.vercel.app/)
+  
 - What was your experience?
+
+  my experience was good, a little complicated when using next 13
+  
 - What have you learned/improved?
+
+  I learned to use zustand better and the latest version of next 13, using its api and implementing the new changes in the project
+  
 - Your wisdom? :)
+
+  Everything is possible with patience and creativity
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
+- [Nextjs](https://nextjs.org/)
 - [Tailwind](https://tailwindcss.com/)
+- [Zustand](https://zustand-demo.pmnd.rs/)
 
 ## Features
 
@@ -68,7 +80,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/LuisQuiiroz/windbnb.git
 
 # Install dependencies
 $ npm install
@@ -77,16 +89,8 @@ $ npm install
 $ npm start
 ```
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [LuisQuiiroz](https://github.com/LuisQuiiroz)
+- LinkedIn [LuisQuiiroz](https://www.linkedin.com/in/luis-quiiroz/)
+- Twitter [Luis_Quiiroz](https://twitter.com/Luis_Quiiroz)
