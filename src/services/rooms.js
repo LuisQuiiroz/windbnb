@@ -1,7 +1,7 @@
 const baseUrl =
     process.env.NODE_ENV === 'development'
       ? 'http://localhost:3000'
-      : 'https://windbnb-q.netlify.app/'
+      : 'https://windbnb-luisquiiroz.vercel.app'
 async function getAllRooms () {
   const res = await fetch(`${baseUrl}/api/rooms`)
   return await res.json()
